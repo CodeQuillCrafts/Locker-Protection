@@ -1,0 +1,15 @@
+.env
+Notes.md
+Activate.ps1
+activate
+activate.bat
+deactivate.bat
+django-admin.exe
+dotenv.exe
+gunicorn.exe
+pip.exe
+pip3.12.exe
+pip3.exe
+python.exe
+pythonw.exe
+sqlformat.exe
